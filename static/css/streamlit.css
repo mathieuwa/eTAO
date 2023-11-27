@@ -1,0 +1,155 @@
+footer {
+  visibility: hidden;
+}
+
+.main .block-container {
+  padding-top: 30px;
+}
+
+.appview-container section:first-child {
+  background-color: rgb(229 234 244);
+}
+
+h3{
+    background: #dbdbdb;
+    border-radius: 6px;
+    padding: 6px;
+    margin-block: 20px;
+}
+
+
+div:has(> .block-container) {
+  padding-top: 30px !important;
+}
+
+/* Sidebar
+
+
+
+.appview-container section:first-child h2, p{
+  color: white !important;
+}
+
+.appview-container svg {
+  stroke: white !important;
+}
+
+*/
+
+
+/* Colors in sidebar */
+
+/*
+.row-widget div label > div:first-child {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+
+.row-widget div label:nth-child(1) > div {
+  background-color: #a3a6ad40;
+}
+
+.row-widget div label:has(input[tabindex="0"]):nth-child(1) > div {
+  background-color: #a3a6ad;
+}
+
+
+
+.row-widget div label:nth-child(1) > div {
+  background-color: #069C5640;
+}
+
+.row-widget div label:has(input[tabindex="0"]):nth-child(1) > div {
+  background-color: #069C56;
+}
+
+
+
+.row-widget div label:nth-child(2) > div {
+  background-color: #FF980E40;
+}
+
+.row-widget div label:has(input[tabindex="0"]):nth-child(2) > div {
+  background-color: #FF980E;
+}
+
+
+.row-widget div label:nth-child(3) > div {
+  background-color: #D3212C40;
+}
+
+.row-widget div label:has(input[tabindex="0"]):nth-child(3) > div {
+  background-color: #D3212C;
+}
+
+*/
+
+
+.stTabs div div div button p {
+  font-size: 18px;
+  margin:20px;
+}
+
+
+
+/*
+label:has(input[tabindex="0"]) > div { 
+  background-color: #000 !important;
+}
+*/
+
+
+/*
+
+.stTabs>div>div>div>div>div>div {
+  background-color: #5757570f;
+  padding: 20px;
+}
+
+
+*/
+
+div.row-widget.stRadio > div {
+ flex-direction: row;
+ align-items: stretch;
+}
+
+.btn > div:first-child {
+  height: 1.7rem;
+  width: 1.7rem;
+}
+
+
+.green-button > div:first-child {
+  background-color: #069C5650;
+}
+
+
+.green-button:has(input[tabindex="0"]) > div {
+  background-color: #069C56;
+}
+
+.yellow-button > div:first-child {
+ background-color: #fffb3360;
+}
+
+.yellow-button:has(input[tabindex="0"]) > div {
+ background-color: #fffb33;
+}
+
+.orange-button > div:first-child {
+ background-color: #ffc10560;
+}
+
+.orange-button:has(input[tabindex="0"]) > div {
+ background-color: #ffc105;
+}
+
+.red-button > div:first-child {
+ background-color: #eb3c3c60;
+}
+
+.red-button:has(input[tabindex="0"]) > div {
+ background-color: #eb3c3c;
+}

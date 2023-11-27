@@ -1,0 +1,393 @@
+{
+  "LANGUAGE": {
+    "FR": "langage",
+    "EN": "language",
+    "ES": "idioma"
+  },
+  "DATE" : {
+    "FR": "date de l'examen",
+    "EN": "exam date",
+    "ES": "fecha de la consulta"
+  },
+  "AGE": {
+    "FR": "ans",
+    "EN": "years old",
+    "ES": "años"
+  },
+  "FIRST_NAME": {
+    "FR": "prénom",
+    "EN": "first name",
+    "ES": "nombre"
+  },
+  "LAST_NAME": {
+    "FR": "nom de famille",
+    "EN": "last name",
+    "ES": "appelido"
+  },
+  "SEX": {
+    "FR": "sexe",
+    "EN": "gender",
+    "ES": "género"
+  },
+  "MALE": {
+    "FR": "homme",
+    "EN": "man",
+    "ES": "masculino"
+  },
+  "FEMALE": {
+    "FR": "female",
+    "EN": "woman",
+    "ES": "femenino"
+  },
+  "REPORT": {
+    "FR": "Bilan",
+    "EN": "Report",
+    "ES": "Informe"
+  },
+  "BIRTHDAY": {
+    "FR": "date de naissance",
+    "EN": "birth date",
+    "ES": "fecha de nacimiento"
+  },
+  "OCULAR_DRYNESS": {
+    "FR": "Bilan de sécheresse oculaire",
+    "EN": "Dry eye consultation",
+    "ES": "Consulta de Ojo Seco"
+  },
+  "OCULAR_SURGERY": {
+    "FR": "Bilan Préopératoire de Chirurgie Oculaire",
+    "EN": "Ocular Surgery pre-op Score",
+    "ES": "Evaluacion preoperatoria de cirugia ocular"
+  },
+  "DRYNESS_HEADER": {
+    "FR": "sécheresse oculaire",
+    "EN": "dry eye symptoms",
+    "ES": "sequedad ocular"
+  },
+  "DRYNESS_INTENSITY": {
+    "FR": "intensité des symptômes",
+    "EN": "symptoms intensity",
+    "ES": "intensidad de los sintomas"
+  },
+  "PDF_DRYNESS_INTENSITY": {
+    "FR": "Intensité des symptômes de sécheresse oculaire ",
+    "EN": "Intensity of ocular dryness symptoms",
+    "ES": "intensidad de los sintomas de los sequedad ocular"
+  },
+  "PDF_DRYNESS_EXPLANATION": {
+    "NONE": {
+      "FR": "Aucun symptôme de sécheresse oculaire",
+      "EN": "No dry eye symptoms",
+      "ES": "Ausencia de síntomas de ojo seco"
+    },
+    "MILD": {
+      "FR": "Sécheresse oculaire modérée avec  symptomatologie d'intensité moyenne",
+      "EN": "Moderate dry eye with mild symptoms",
+      "ES": "Ojo seco de intensidad intermedia con síntomas moderados"
+    },
+    "SEVERE": {
+      "FR": "Sécheresse oculaire sévère avec symptomatologie de forte intensité",
+      "EN": "Severe dry eye with high symptoms intensity",
+      "ES": "Ojo seco grave con síntomas intensos"
+    }
+  },
+  "DRYNESS_INTENSITY_EXPLANATION": {
+    "FR": "0 : Aucun symptôme de sécheresse oculaire\n\nSécheresse oculaire modérée avec symptomatologie d'intensité moyenne\n\nSécheresse oculaire sévère avec symptomatologie de forte intensité.",
+    "EN": "0: No symptoms of dry eye\n\nModerate dry eye with mild symptoms\n\nSevere dry eye with intense symptoms.",
+    "ES": "0: No hay síntomas de ojo seco\n\nOjo seco moderado con síntomas leves\n\nOjo seco grave con síntomas muy presentes"
+  },
+  "DRYNESS_FREQUENCY": {
+    "FR": "fréquence des symptômes",
+    "EN": "symptoms frequency",
+    "ES": "frequencia de los sintomas"
+  },
+  "DRYNESS_FREQUENCY_EXPLANATION": {
+    "FR": "1 à 5 : La fréquence des symptômes de sécheresse oculaire est modérée\n\n6 à 10 : La fréquence des symptômes de sécheresse oculaire est très importante.",
+    "EN": "1 to 5: Frequency of dry eye symptoms is moderate\n\n6 to 10: Frequency of dry eye symptoms is very high",
+    "ES": "1 a 5 : La frecuencia de los síntomas de ojo seco es moderada\n\nDe 6 a 10: Alta frecuencia de síntomas de ojo seco"
+  },
+  "PDF_FREQUENCY": {
+    "FR": "Fréquence des symptômes de sécheresse oculaire",
+    "EN": "Frequency of dry eye symptoms",
+    "ES": "Frecuencia de los síntomas de ojo seco"
+  },
+  "PDF_FREQUENCY_EXPLANATION_MILD": {
+    "FR": "La fréquence des symptômes de sécheresse oculaire est modérée",
+    "EN": "Mild frequency of dry eye symptoms",
+    "ES": "Frecuencia moderada de síntomas de ojo seco"
+  },
+    "PDF_FREQUENCY_EXPLANATION_SEVERE": {
+    "FR": "La fréquence des symptômes de sécheresse oculaire est très importante",
+    "EN": "High frequency of dry eye symptoms",
+    "ES": "Frecuencia muy alta de síntomas de ojo seco"
+  },
+  "CONTEXT": {
+    "FR": "antécédents",
+    "EN": "clinical context",
+    "ES": "antecedentes clìnicos"
+  },
+  "LASIK": {
+    "FR": "LASIK",
+    "EN": "LASIK",
+    "ES": "LASIK"
+  },
+  "ISOTRETINOIN": {
+    "FR": "isotrétinoïne",
+    "EN": "isotretinoin",
+    "ES": "isotretinoìna"
+  },
+  "BLEPHAROPLASTY": {
+    "FR": "blépharoplastie",
+    "EN": "blepharoplasty",
+    "ES": "blefarioplastia"
+  },
+  "LEFT_EYE": {
+    "FR": "gauche",
+    "EN": "left",
+    "ES": "izquierdo"
+  },
+  "RIGHT_EYE": {
+    "FR": "droit",
+    "EN": "right",
+    "ES": "derecho"
+  },
+  "EYE_HEADER": {
+    "FR": "Œil {}",
+    "EN": "{} Eye",
+    "ES": "Ojo {}"
+  },
+  "EYE_SIDEBAR_NAMING": {
+    "e": {
+      "FR": "Atrophie Épithéliale Cornéenne en OCT",
+      "EN": "OCT's Corneal Epithelial Atrophy",
+      "ES": "Atrofia Epitelial Corneal en OCT"
+    },
+    "T": {
+      "FR": "Télangiectasies",
+      "EN": "Telangiectasias",
+      "ES": "Telangiectasias"
+    },
+    "A": {
+      "FR": "Atrophie des Glandes de Meibomius",
+      "EN": "Meibomian Glands Atrophy",
+      "ES": "Atrofia de las Glándulas de Meibomio"
+    },
+    "O": {
+      "FR": "Obstruction des Glandes de Meibomius",
+      "EN": "Meibomian Glands Obstruction",
+      "ES": "Obstrucción de las Glándulas de Meibomio"
+    }
+  },
+  "EYE_SIDEBAR_EXPLANATION": {
+    "e": {
+      "FR": "À combien estimez-vous l'atrophie épithéliale cornéenne ? \n\nPas de KPS, OCTe Normal : \uD83D\uDFE2\n\nKPS localisé et/ou hyperplasie en OCTe : \uD83D\uDFE1\n\nKPS Localisée et Atrophie localisée en OCTe et/ou LASIK : \uD83D\uDFE0\n\nKPS Diffuse, OCTe atrophique diffuse, Présence de Cogan : \uD83D\uDD34",
+      "EN": "What is your estimation of corneal epithelial atrophy?\n\nNo SPK, normal eOCT: \uD83D\uDFE2\n\nLocalized SPK and/or hyperplasia on eOCT: \uD83D\uDFE1\n\nLocalized SPK and localized atrophy on eOCT: \uD83D\uDFE0\n\nDiffuse SPK and/or diffuse atrophy on eOCT and/or evidence of Cogan: \uD83D\uDD34",
+      "ES": "¿Cuál es su estimación de la atrofia epitelial corneal?\n\nSin QPS, OCTe normal: \uD83D\uDFE2\n\nQPS localizada y/o hiperplasia en OCTe: \uD83D\uDFE1\n\nQPS localizada y atrofia localizada en OCTe: \uD83D\uDFE0\n\nQPS difusa, OCT atrofia difusa, presencia de Cogan: \uD83D\uDD34"
+    },
+    "T": {
+      "FR": "À combien estimez-vous la présence de Télangiectasies ?\n\nPas de Télangiectasies du bord libre, ni conjonctivales ni en Meibographie : \uD83D\uDFE2\n\nTélangiectasies des bords libres fines et superficielles : \uD83D\uDFE1\n\nTélagiectasies peu nombreuses et localisées en Meibographie : \uD83D\uDFE0\n\nTélangiectasies épaisses, profondes ou bien visibles en Meibographie : \uD83D\uDD34",
+      "EN": "How much do you estimate the presence of Telangiectasia?\n\nNo eyelid margin telangiectasias and no telangiectasias on Meibography: \uD83D\uDFE2\n\nFine and superficial eyelid margin telangiectasias: \uD83D\uDFE1\n\nFew localized telangiectasias on Meibography: \uD83D\uDFE0\n\nThick and deep telangiectasias, clearly visible on Meibography: \uD83D\uDD34",
+      "ES": "¿Cuál es su estimación sobre la presencia de Telangiectasias?\n\nSin telangiectasias de borde libre palpebral, ni conjuntivales ni en la Meibografía: \uD83D\uDFE2\n\nTelangiectasias finas y superficiales de los márgenes libres palpebrales: \uD83D\uDFE1\n\nEscasas y localizadas telangiectasias en la Meibografía: \uD83D\uDFE0\n\nTelangiectasias espesas, profundas o claramente visibles en la Meibografía: \uD83D\uDD34"
+    },
+    "A": {
+      "FR": "À combien estimez-vous l'Atrophie des Glandes de Meibomius ?\n\nAtrohie des GM < 25% : \uD83D\uDFE2\n\n 26% < Atrophie des GM < 50% : \uD83D\uDFE1\n\n51 % < Atrophie des GM < 75% : \uD83D\uDFE0\n\nAtrophie des GM > 76 % : \uD83D\uDD34",
+      "EN": "What is your estimation of Meibomian Gland Atrophy?\n\nMeibomian glands atrophy < 25% : \uD83D\uDFE2\n\n26% < Meibomian Glands Atrophy < 50%: \uD83D\uDFE1\n\n51% < Meibomian Glands Atrophy < 75%: \uD83D\uDFE0\n\nMeibomian Glands Atrophy > 76%: \uD83D\uDD34",
+      "ES": "¿Cuál es su estimación de la atrofia de las glándulas de Meibomio?\n\nAtrofia de las glándulas de Meibomio < 25% : \uD83D\uDFE2\n\n26% < Atrofia de las glándulas de Meibomio < 50%: \uD83D\uDFE1\n\n51% < Atrofia de las glándulas de Meibomio < 75%: \uD83D\uDFE0\n\nAtrofia de las glándulas de Meibomio > 76%: \uD83D\uDD34"
+    },
+    "O": {
+      "FR": "À combien estimez-vous l'Obstruction des Glandes de Meibomius ?\n\nMeibum d'aspect normal sans obstruction des Glandes : \uD83D\uDFE2\n\nMeibum dénaturé, opaque : \uD83D\uDFE1\n\nObstruction très importante avec peu de glandes fonctionnelles, aspect spaghetti ou pâte dentifrice (moins de 4) : \uD83D\uDFE0\n\nObstruction complète avec 0, 1 ou 2 glandes fonctionnelles : \uD83D\uDD34",
+      "EN": "What is your estimation of Meibomian Gland Obstruction?\n\nNormal meibum without glandular obstruction : \uD83D\uDFE2\n\nDenatured and cloudy meibum: \uD83D\uDFE1\n\nSevere obstruction with few functional glands, spaghetti or toothpaste appearance: \uD83D\uDFE0\n\nComplete obstruction with less than 2 functional glands: \uD83D\uDD34",
+      "ES": "¿Cuál es su estimación de la obstrucción de las glándulas de Meibomio?\n\nMeibomio de aspecto normal sin obstrucción de las glándulas  : \uD83D\uDFE2\n\nMeibomio denaturado y opaco : \uD83D\uDFE1\n\nObstrucción muy importante con pocas glándulas funcionales, aspecto de spaghetti o pasta de dientes : \uD83D\uDFE0\n\nObstrucción completa con menos de 2 glándulas funcionales : \uD83D\uDD34"
+    }
+  },
+  "EYE_RECOMMENDATION": {
+    "e": {
+      "\uD83D\uDFE2": {
+        "FR": "Epithélium cornéen normal",
+        "EN": "Normal corneal epithelium",
+        "ES": "Epitelio corneal normal"
+      },
+      "\uD83D\uDFE1": {
+        "FR": "Légère altération de l'épithélium cornéen",
+        "EN": "Minor damage of the corneal epithelium",
+        "ES": "Epitelio corneal levemente afectado"
+      },
+      "\uD83D\uDFE0": {
+        "FR": "Atteinte modérée de l'épithélium cornéen",
+        "EN": "Moderate damage to the corneal epithelium",
+        "ES": "Daño moderado del epitelio corneal"
+      },
+      "\uD83D\uDD34": {
+        "FR": "Atteinte sévère de l'épithélium cornée",
+        "EN": "Severe damage of the corneal epithelium",
+        "ES": "Lesiones importantes del epitelio corneal"
+      }
+    },
+    "T": {
+      "\uD83D\uDFE2": {
+        "FR": "Pas de télangiectasies palpébrales",
+        "EN": "No palpebral telangiectasia",
+        "ES": "Ausencia de telangiectasias palpebrales"
+      },
+      "\uD83D\uDFE1": {
+        "FR": "Présence de télangiectasies superficielles des bords libres des paupières",
+        "EN": "Superficial telangiectasias of the eyelid margins",
+        "ES": "Presencia de telangiectasias superficiales de los márgenes libres de los párpados"
+      },
+      "\uD83D\uDFE0": {
+        "FR": "Télangiectasies palpébrales profondes avec une notable inflammation de la surface oculaire",
+        "EN": "Deep palpebral telangiectasias with significant inflammation of the ocular surface",
+        "ES": "Telangiectasias palpebrales profundas con inflamación significativa de la superficie ocular"
+      },
+      "\uD83D\uDD34": {
+        "FR": "Importantes Télangiectasies palpébrales avec inflammation sévère de la surface oculaire",
+        "EN": "Deep palpebral telangiectasias with severe inflammation of the ocular surface",
+        "ES": "Telangiectasias palpebrales significativas con inflamación grave de la superficie ocular"
+      }
+    },
+    "A": {
+      "\uD83D\uDFE2": {
+        "FR": "Pas d'atrophie significative des glandes de Meibomius : Stade 1",
+        "EN": "No significant atrophy of the meibomian glands: stage 1",
+        "ES": "Glándulas de Meibomio sin atrofia : Estadio 1"
+      },
+      "\uD83D\uDFE1": {
+        "FR": "Atrophie modérée des glandes de Meibomius : Stade 2",
+        "EN": "Moderate atrophy of the Meibomian glands: Stage 2",
+        "ES": "Atrofia moderada de las glándulas de Meibomio : Estadio 2"
+      },
+      "\uD83D\uDFE0": {
+        "FR": "Atrophie notable des glandes de Meibomius : Stade 3",
+        "EN": "Significant atrophy of the Meibomian glands: Stage 3",
+        "ES": "Atrofia significativa de las glándulas de Meibomio : Estadio 3"
+      },
+      "\uD83D\uDD34": {
+        "FR": "Atrophie sévère des glandes de Meibomius : Stade 4",
+        "EN": "Severe atrophy of the Meibomian glands: Stage 4",
+        "ES": "Atrofia grave de las glándulas de Meibomio : Estadio 4"
+      }
+    },
+    "O": {
+      "\uD83D\uDFE2": {
+        "FR": "Meibum d'aspect normal sans obstruction des glandes de Meibomius",
+        "EN": "Normal Meibum without obstruction of the Meibomian glands",
+        "ES": "Meibomio de aspecto normal sin obstrucción de las glándulas de Meibomio"
+      },
+      "\uD83D\uDFE1": {
+        "FR": "Meibum dénaturé avec une obstruction modérée des glandes de Meibomius",
+        "EN": "Denaturated meibum with moderate meibomian gland obstruction",
+        "ES": "Meibum denaturado con obstrucción moderada de las glándulas de Meibomio"
+      },
+      "\uD83D\uDFE0": {
+        "FR": "Importante obstruction des glandes de Meibomius",
+        "EN": "Severe obstruction of the Meibomian glands",
+        "ES": "Obstrucción importante de las glándulas de Meibomio"
+      },
+      "\uD83D\uDD34": {
+        "FR": "Obstruction complète des glandes de Meibomius",
+        "EN": "Complete obstruction of the Meibomian glands",
+        "ES": "Obstrucción completa de las glándulas de Meibomio"
+      }
+    }
+  },
+  "RECOMMENDATIONS": {
+    "FR": "Propositions thérapeutiques",
+    "EN": "Therapeutic proposal",
+    "ES": "Programa Terapéutico\n"
+  },
+  "LUBRICANT": {
+    "FR": "Lubrifiants et Soin des paupières",
+    "EN": "Lubricants and eyelid care",
+    "ES": "Lubricantes y cuidados de párpados"
+  },
+  "LIGHT": {
+    "FR": "Nombre de séances d'IPL",
+    "EN": "Number of IPL sessions",
+    "ES": "Cantidad de sesiones de luz pulsada"
+  },
+  "QMR": {
+    "FR": "Nombre de séances de QMR Resono",
+    "EN": "Number of QMR Resono sessions",
+    "ES": "Cantidad de sesiones de QMR Resono"
+  },
+  "LIPIFLOW": {
+    "FR": "Nombre de séances de LipiFlow (ou iLux)",
+    "EN": "Number of lipiFlow (or iLux) sessions",
+    "ES": "Cantidad de sesiones de LipiFlow (o iLux)"
+  },
+  "GENERATE_REPORT": {
+    "FR": "Générer le rapport",
+    "EN": "Generate report",
+    "ES": "Obtener el informe"
+  },
+  "PDF_REPORT": {
+    "FR": "Compte Rendu d'Examen",
+    "EN": "Examination Report",
+    "ES": "Informe De Examen"
+  },
+  "PDF_REALIZATION": {
+    "FR": "Réalisé le",
+    "EN": "Done on the",
+    "ES": "Realizado el"
+  },
+  "PDF_ETAO_SCORE": {
+    "FR": "Score eTAO",
+    "EN": "eTAO Score",
+    "ES": "eTAO puntuación"
+  },
+  "PDF_RECOMMENDATIONS": {
+    "FR": "Recommandations",
+    "EN": "Recommendations",
+    "ES": "Recomendaciones"
+  },
+  "PDF_SURGERY_INFORMATION_NO": {
+    "FR": "Le patient n'a pas bénéficié d'un LASIK, ni d'une blépharoplastie. Pas de prise d’isotrétinoïne.",
+    "EN": "Patient has not had LASIK or blepharoplasty. No isotretinoin taken.",
+    "ES": "El paciente no se ha sido operado de LASIK ni de blefaroplastia. No hay noción de isotretinoína."
+  },
+  "PDF_LIGHT": {
+    "FR": "séances de lumière pulsée",
+    "EN": "sessions of IPL",
+    "ES": "sesiones de IPL"
+  },
+  "PDF_QMR": {
+    "FR": "séances de QMR Resono",
+    "EN": "sessions of QMR Resono",
+    "ES": "sesiones de QMR Resono "
+  },
+  "PDF_LIPIFLOW": {
+    "FR": "séances de Lipiflow",
+    "EN": "sessions of Lipiflow (or iLux)",
+    "ES": "sesiones de Lipiflow (o iLux)"
+  },
+  "PDF_LUBRICANT": {
+    "FR": "Lubrifiants et Soins des paupières",
+    "EN": "Lubricants and eyelid care",
+    "ES": "Lubricantes y cuidado de párpados"
+  },
+  "PDF_NO_RECOMMENDATION": {
+    "FR": "Aucune",
+    "EN": "None",
+    "ES": "Ninguino"
+  },
+  "PDF_RECOMMENDATION_LASIK": {
+    "FR": "LASIK non recommandé",
+    "EN": "LASIK not recommended",
+    "ES": "No se recomienda LASIK"
+  },
+  "PDF_RECOMMENDATION_IMPLANTS": {
+    "FR": "Implants Multifocaux non recommandés",
+    "EN": "Multifocal IOL not recommended",
+    "ES": "No se recomienda LIO multifocal"
+  },
+  "PDF_RECOMMENDATION_LENS": {
+    "FR": "Lentilles de contact souples non recommandées",
+    "EN": "Soft contact lenses not recommended",
+    "ES": "No se recomiendan lentes de contacto blandos"
+  },
+  "PDF_RECOMMENDATION_TOXICITY": {
+    "FR": "Toxicité possible des collyres hypotenseurs",
+    "EN": "Possible toxicity of hypotensive eye drops",
+    "ES": "Posible toxicidad de los colirios hipotensores"
+  }
+}
